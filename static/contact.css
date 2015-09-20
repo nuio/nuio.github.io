@@ -1,0 +1,20 @@
+body {
+  background-color: #E6D6A0; }
+
+.contact {
+  margin-top: 89px;
+  margin-bottom: 40px;
+  color: #5E5E5E;
+  text-align: center; }
+  .contact h1 {
+    font-size: 75px;
+    font-weight: 900; }
+  .contact h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-weight: 900;
+    color: #5E5E5E; }
+  .contact a {
+    color: #7CB766; }
+
+/*# sourceMappingURL=contact.css.map */
