@@ -49,6 +49,8 @@ body {
     margin-bottom: 0; }
 
 .course-meeting {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
   text-align: center;
   margin-top: 20px;
   padding: 20px; }
