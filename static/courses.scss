@@ -62,6 +62,15 @@ body {
   }
 }
 
+.course-white {
+  background-color: #FFFFFF;
+  color: #5E5E5E;
+
+  h2 {
+    color: #5E5E5E;
+  }
+}
+
 .course-header {
   margin-bottom: 25px;
 
@@ -92,4 +101,9 @@ body {
 .course-meeting-gray {
   background-color: #5E5E5E;
   color: #E6D6A0;
+}
+
+.course-meeting-green {
+  background-color: #7CB766;
+  color: #FFFFFF;
 }
